@@ -1,0 +1,2 @@
+- name: Commit Invaders
+  uses: Goblinlordx/commit-invaders@v1.2.1
